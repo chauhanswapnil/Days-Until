@@ -21,6 +21,10 @@
 		045126AB252AEBE6007548F0 /* AppStoreReviewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045126AA252AEBE6007548F0 /* AppStoreReviewManager.swift */; };
 		04EAE1E0252879720074F0E3 /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 04EAE1DF252879720074F0E3 /* IQKeyboardManagerSwift */; };
 		04EAE1E425287E5D0074F0E3 /* YPImagePicker in Frameworks */ = {isa = PBXBuildFile; productRef = 04EAE1E325287E5D0074F0E3 /* YPImagePicker */; };
+		04EBD8EF252EE17B00287A28 /* ss3.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EBD8EB252EE17100287A28 /* ss3.png */; };
+		04EBD8F0252EE17B00287A28 /* ss2.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EBD8EC252EE17400287A28 /* ss2.png */; };
+		04EBD8F1252EE17B00287A28 /* ss4.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EBD8ED252EE17900287A28 /* ss4.png */; };
+		04EBD8F2252EE17B00287A28 /* ss1.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EBD8EE252EE17B00287A28 /* ss1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +54,10 @@
 		04359A882527547A00D8DC0B /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		04359A8B252754C600D8DC0B /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		045126AA252AEBE6007548F0 /* AppStoreReviewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreReviewManager.swift; sourceTree = "<group>"; };
+		04EBD8EB252EE17100287A28 /* ss3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss3.png; sourceTree = "<group>"; };
+		04EBD8EC252EE17400287A28 /* ss2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss2.png; sourceTree = "<group>"; };
+		04EBD8ED252EE17900287A28 /* ss4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss4.png; sourceTree = "<group>"; };
+		04EBD8EE252EE17B00287A28 /* ss1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +93,7 @@
 		04359A6B2527432400D8DC0B /* Days Until */ = {
 			isa = PBXGroup;
 			children = (
+				04EBD8EA252EE14D00287A28 /* Screenshots */,
 				04359A8325274A2000D8DC0B /* Controllers */,
 				04359A8225274A1C00D8DC0B /* View */,
 				04359A8125274A1600D8DC0B /* Model */,
@@ -123,6 +132,17 @@
 				04359A8B252754C600D8DC0B /* MainViewController.swift */,
 			);
 			path = Controllers;
+			sourceTree = "<group>";
+		};
+		04EBD8EA252EE14D00287A28 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				04EBD8EE252EE17B00287A28 /* ss1.png */,
+				04EBD8EC252EE17400287A28 /* ss2.png */,
+				04EBD8EB252EE17100287A28 /* ss3.png */,
+				04EBD8ED252EE17900287A28 /* ss4.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,9 +213,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04EBD8F1252EE17B00287A28 /* ss4.png in Resources */,
 				04359A792527432800D8DC0B /* LaunchScreen.storyboard in Resources */,
+				04EBD8F2252EE17B00287A28 /* ss1.png in Resources */,
+				04EBD8F0252EE17B00287A28 /* ss2.png in Resources */,
 				04359A762527432800D8DC0B /* Assets.xcassets in Resources */,
 				04359A742527432500D8DC0B /* Main.storyboard in Resources */,
+				04EBD8EF252EE17B00287A28 /* ss3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,13 +385,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = JWJKJG57EN;
 				INFOPLIST_FILE = "Days Until/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.01;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chauhan-swapnil.Days-Until";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -381,13 +406,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = JWJKJG57EN;
 				INFOPLIST_FILE = "Days Until/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.01;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chauhan-swapnil.Days-Until";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
