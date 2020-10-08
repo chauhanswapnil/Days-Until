@@ -18,10 +18,10 @@ Screenshots:
 
 <img src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss1.png" data-canonical-src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss1.png" width="311" height="672" />
 
-<img src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss1.png" data-canonical-src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss2.png" width="311" height="672" />
+<img src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss2.png" data-canonical-src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss2.png" width="311" height="672" />
 
-<img src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss1.png" data-canonical-src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss3.png" width="311" height="672" />
+<img src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss3.png" data-canonical-src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss3.png" width="311" height="672" />
 
-<img src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss1.png" data-canonical-src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss4.png" width="311" height="672" />
+<img src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss4.png" data-canonical-src="https://github.com/chauhanswapnil/Days-Until/blob/main/Days%20Until/Screenshots/ss4.png" width="311" height="672" />
 
 </p>
