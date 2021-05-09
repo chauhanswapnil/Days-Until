@@ -10,6 +10,8 @@ Days Until can remember and keep track of all your special moments.
 * Beautiful Dark Mode and Light Mode Supported
 * Completely free to use.
 
+[Download on the AppStore here](https://apps.apple.com/in/app/days-until-track-days/id1534481981)
+
 ** iOS 14 widget support and Apple Watch Complication coming soon. So Stay Tuned. **
 
 Screenshots:
